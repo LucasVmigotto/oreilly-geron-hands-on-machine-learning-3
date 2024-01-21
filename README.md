@@ -1,6 +1,6 @@
-# template-datascience
+# O'Reilly - Gérons's Hands on Machine Learning 3rd Edition
 
-Template for Data Science, Machine Learning and Deep Learning projects
+Project to book's labs
 
 ## Summary
 
